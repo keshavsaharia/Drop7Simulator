@@ -1,0 +1,9 @@
+This is the first version of the Drop7Simulator. It is written in Java but I'm sure it could become considerably faster if ported to C (although this may just be my speculation).
+
+It does not include the methods that I developed to distribute the computing of the simulator to other computers, yet. The method I was using used the Java Socket and ServerSocket, but was a very basic solution and nothing good for a robust distributed computing solution. 
+
+Play around with the code, modify it, and if you make anything cool, I would love to hear about it!
+
+-Keshav Saharia
+keshav.saharia@gmail.com
+www.keshavsaharia.com
